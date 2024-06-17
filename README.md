@@ -1,6 +1,7 @@
 <h1 align="center" style="color: pink;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF69B4&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá,+me+chamo+Raissa+Nunes+Peret.;Seja+bem-vindo+ao+meu+perfil!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF69B4&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+me+chamo+Raissa+Nunes+Peret.;Seja+bem-vindo+ao+meu+perfil!" />
 </h1>
+
 
 ### Sobre Mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
