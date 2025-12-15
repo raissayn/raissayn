@@ -1,16 +1,8 @@
-<h1 align="center" style="color: pink;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF69B4&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá,+me+chamo+Raissa+Nunes+Peret.;Seja+bem-vindo+ao+meu+perfil!" />
-</h1>
+<h4>Computer Science undergraduate at the Federal University of Alfenas.</h4>
 
-
-### Sobre Mim
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na Universidade Federal de Alfenas.
-
-### Onde me Encontrar
+###### Where to Find Me:
 <a href="https://instagram.com/raissayn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/raissa-nunes-179a86294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+<a href="https://www.linkedin.com/in/raissa-nunes-179a86294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br/>
 
@@ -21,5 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissayn&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
 </div>
 
-
 [![](https://visitcount.itsvg.in/api?id=raissayn&icon=5&color=6)](https://visitcount.itsvg.in)
+
