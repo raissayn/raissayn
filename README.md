@@ -1,16 +1,27 @@
-<h4>Computer Science undergraduate at the Federal University of Alfenas.</h4>
+Computer Science student at the Federal University of Alfenas (UNIFAL-MG)  
+Focused on backend development, machine learning and applied technology.
 
-###### Where to Find Me:
-<a href="https://www.linkedin.com/in/raissa-nunes-179a86294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+####  Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" width="30"/>
+</p>
 
-<br/>
+####  Technologies & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="30"/>
+</p>
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/raissayn" title="Profile">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissayn&theme=dracula&show_icons=true" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissayn&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=raissayn&icon=5&color=6)](https://visitcount.itsvg.in)
-
+####  Connect with Me
+<a href="https://www.linkedin.com/in/raissa-nunes-179a86294">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
